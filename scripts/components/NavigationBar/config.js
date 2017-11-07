@@ -2,4 +2,4 @@ export default {
   NAV_BAR_HEIGHT_ANDROID: 50,
   NAV_BAR_HEIGHT_IOS: 44,
   STATUS_BAR_HEIGHT: 20
-  }
+}
